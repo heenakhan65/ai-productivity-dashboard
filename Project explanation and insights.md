@@ -1,6 +1,9 @@
 
 # AI Developer Productivity Dashboard
 
+- `AI_Productivity_Dashboard.pbix` – Power BI dashboard file
+- `developer_productivity_data.xlsx` – Raw data file used for modeling
+
 This Power BI dashboard analyzes and visualizes developer productivity metrics using AI assistance tools. It helps understand how coding hours, distractions, and AI usage impact task performance.
 
 ---
